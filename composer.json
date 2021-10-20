@@ -1,0 +1,21 @@
+{
+	"name": "asmodee/asmodee-newsletter",
+  "description": "",
+  "version": "1.0.0",
+  "type":"wordpress-plugin",
+	"keywords": [
+		"wordpress"
+	],
+	"authors": [
+		{
+			"name":"Brice",
+			"email":"brice@daysofwonder.com"
+		}
+	],
+  "repositories":[
+  ],
+	"require": {
+	},
+	"extra": {
+	}
+}

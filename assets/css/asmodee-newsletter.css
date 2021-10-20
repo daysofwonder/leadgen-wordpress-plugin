@@ -1,0 +1,118 @@
+.asmodee-newsletter {
+  padding: 21px 24px;
+  background: #f8f8f8;
+  color: #1d1d1d;
+}
+
+.asmodee-newsletter__container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  padding: 50px 50px 40px 50px;
+  background-color: white;
+}
+
+#asmodee-newsletter-email {
+  background: #ffffff;
+  border: 1px solid #000000;
+  cursor: default;
+  width: 70%;
+  max-width: 350px;
+}
+
+button.newsletter-subscribe {
+  width: 25%;
+  max-width: 250px;
+}
+
+p.asmodee-newsletter_credentials {
+  text-align: center;
+}
+
+.asmodee-newsletter__container .newsletter-skip {
+  display: none;
+}
+
+.asmodee-newsletter__container .column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  justify-content: center;
+}
+
+.asmodee-newsletter__container .column:nth-child(2) {
+  padding-left: 50px;
+}
+
+.asmodee-newsletter__title {
+  padding: 0 0 20px 0;
+}
+
+.asmodee-newsletter-success .icon {
+  float: left;
+  background: url("../img/newsletter-success.png") no-repeat;
+  background-size: contain;
+  width: 43px;
+  height: 43px;
+  margin: 6px 15px 0 0;
+}
+
+.asmodee-newsletter-success p:first-of-type {
+  font-weight: bolder;
+}
+
+.asmodee-newsletter .mentions {
+  width: 100%;
+  padding: 6px 0;
+}
+.asmodee-newsletter .mentions p {
+  font-size: 10px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.asmodee-newsletter__container .loader{
+  display: inline-block;
+  margin: 0 20px 0 20px;
+}
+
+@media (max-width: 767px) {
+  #asmodee-newsletter-email,
+  button.newsletter-subscribe {
+    width: 100%;
+  }
+
+  .asmodee-newsletter__container .column:nth-child(2) {
+    padding: unset;
+  }
+
+  .asmodee-newsletter__container .column {
+    display: block;
+    flex: unset;
+    justify-content: center;
+  }
+
+  .asmodee-newsletter__title {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .asmodee-newsletter__container .column:first-child p {
+    font-size: 14px;
+    margin-bottom: 16px;
+  }
+
+  .asmodee-newsletter__container .column input,
+  .asmodee-newsletter__container .column button {
+    margin-bottom: 16px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .asmodee-newsletter__container {
+    padding: 20px 20px 10px 20px;
+  }
+}

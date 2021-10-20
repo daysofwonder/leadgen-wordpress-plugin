@@ -2,7 +2,7 @@
 
 ## Installation
 
-* Copy `asmodee-newsletter` to `/plugins` 
+* Copy this folder to `/plugins/asmodee-newsletter` 
 * Activate plugin `wp plugin activate asmodee-newsletter`
 
 ## Configuration

@@ -1,75 +1,107 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: asmodee newsletter\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fr\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
-# wpml-name: 4a261028e6c84ba1802b63870f51984c
-msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
-msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos données personnelles, veuillez consulter notre Politique de Confidentialité"
-
-# wpml-name: 9b16adcd16fc5d9756694d2f5f3c3c9c
-msgid "You can use the unsubscribe link in the newsletter at any time."
-msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la newsletter."
-
-# wpml-name: 282fbb9df65b6ff2dde660b7e60f1692
-msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
-msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données recueillies uniquement pour gérer votre inscription à la Newsletter."
-
-# wpml-name: b26917587d98330d93f87808fc9d7267
-msgid "Subscribe"
-msgstr "S’abonner"
-
-# wpml-name: d554d9bf0cd8f79c215600eeb77825e8
-msgid "Your email"
-msgstr "Votre email"
-
-# wpml-name: 79231538301770de30f2597394f97e68
-msgid "Subscribe to our newsletter here:"
-msgstr "Abonnez-vous à notre newsletter ici :"
-
-# wpml-name: cb3a6f4bd6d5b8a62d88373abb34940a
-msgid "Do you want to receive all the news about the board game?"
-msgstr "Vous voulez recevoir toute l’actualité du board game ?"
-
-# wpml-name: 8144eaaa3a1db5748161ec93fa3b5f1c
-msgid "An error has occured"
-msgstr "Une erreur est survenue"
-
-# wpml-name: c045d5c0d17d26bffb8aaf3d6faac2c4
-msgid "User already registred"
-msgstr "Utilisateur déjà enregistré"
-
-# wpml-name: 681c7d68f4df5cdfbe3e1a29d22c275a
-msgid "Invalid email"
-msgstr "Email invalide"
-
-# wpml-name: ae31e4e31ab90a484006b6320c9c4e6d
-msgid "An email has been sent to confirm!"
-msgstr "Un email a été envoyé pour confirmation"
-
-# wpml-name: e6ea95c4fa5ee24aeca0f6aa01437815
-msgid "You are now subscribed!"
-msgstr "Vous êtes inscrits"
-
-# wpml-name: 0e3cf297ae8f784792908fd6337c1ffc
+#: asmodee-newsletter.php:54
 msgid "Submitting email"
 msgstr "Inscription en cours"
 
-# wpml-name: 16bfbf9c462762cf1cba4134ec53c504
-msgid "Loading"
-msgstr "Chargement"
+#: asmodee-newsletter.php:55
+msgid "You are now subscribed!"
+msgstr "Vous êtes inscrits"
 
-# wpml-name: 
-msgid "Want the latest news about boardgaming and take advantage of exclusive offers?"
-msgstr "Vous souhaitez recevoir toute l'actualité autour du jeu de société et profiter d'avantages exclusifs ?"
+#: asmodee-newsletter.php:56
+msgid "An email has been sent to confirm!"
+msgstr "Un email a été envoyé pour confirmation"
 
-# wpml-name: 
+#: asmodee-newsletter.php:57, asmodee-newsletter.php:312
+msgid "Invalid email"
+msgstr "Email invalide"
+
+#: asmodee-newsletter.php:58
+msgid "User already registred"
+msgstr "Utilisateur déjà enregistré"
+
+#: asmodee-newsletter.php:59
+msgid "An error has occured"
+msgstr "Une erreur est survenue"
+
+#: asmodee-newsletter.php:70
+msgid "<p class=\"asmodee-newsletter_credentials\"><a href=\"%s\">Newsletter : Set "
+"credentials in settings page</a></p>"
+msgstr ""
+
+#: asmodee-newsletter.php:85
+msgid "Want the latest news about boardgaming and take advantage of exclusive "
+"offers?"
+msgstr "Vous souhaitez recevoir toute l'actualité autour du jeu de société et "
+"profiter d'avantages exclusifs ?"
+
+#: asmodee-newsletter.php:86
 msgid "Subscribe to our newsletter!"
 msgstr "Abonnez-vous à notre newsletter !"
+
+#: asmodee-newsletter.php:298
+msgid "Invalid nonce"
+msgstr ""
+
+#: asmodee-newsletter.php:361
+msgid "Subscribe"
+msgstr "S’abonner"
+
+#: asmodee-newsletter.php:364
+msgid "Your email"
+msgstr "Votre email"
+
+#: asmodee-newsletter.php:370
+msgid "Skip"
+msgstr "Passer"
+
+#: asmodee-newsletter.php:390
+msgid "Asmodee Digital, as the Data Controller, processes the data collected solely "
+"to manage your subscription to the newsletter."
+msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données "
+"recueillies uniquement pour gérer votre inscription à la Newsletter."
+
+#: asmodee-newsletter.php:395
+msgid "You can use the unsubscribe link in the newsletter at any time."
+msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la "
+"newsletter."
+
+#: asmodee-newsletter.php:401
+msgid "To find out more about your rights and how we process your personal data, "
+"please see our Privacy Policy"
+msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos "
+"données personnelles, veuillez consulter notre Politique de Confidentialité"
+
+#: asmodee-newsletter.php:436
+msgid "Client ID"
+msgstr ""
+
+#: asmodee-newsletter.php:444
+msgid "Client Secret"
+msgstr ""
+
+#: asmodee-newsletter.php:474
+msgid "Enter Client ID and Client Secret"
+msgstr ""
+
+#: asmodee-newsletter.php:505
+msgid "Can't set a token"
+msgstr ""
+
+#: template/confirm-subscription.php:24
+msgid "Your subscription is confirmed."
+msgstr "Votre inscripition est confirmée."
+
+#: template/confirm-subscription.php:24
+msgid "Subscription key is not valid."
+msgstr "La clé d'inscription est invalide."

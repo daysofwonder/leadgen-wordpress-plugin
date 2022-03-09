@@ -358,7 +358,7 @@ add_action('template_redirect', 'asmodee_newsletter_confirmation_page_template_r
 function asmodee_newsletter_display_form_subscribe($print_and_play = false)
 {
     // Text depending the context
-    $text_button = $print_and_play ? __('Subscribe to our newsletter !', 'asmodee-newsletter') : __('Subscribe', 'asmodee-newsletter');
+    $text_button = $print_and_play ? __('Subscribe to our newsletter!', 'asmodee-newsletter') : __('Subscribe', 'asmodee-newsletter');
     return '
     <form>
         <input id="asmodee-newsletter-email" class="btn" type="email" placeholder="' . __('Your email', 'asmodee-newsletter') . '">
@@ -502,7 +502,7 @@ function asmodee_newsletter_check_token()
         if (!empty($asmodee_newsletter_token)) {
             set_transient('asmodee_newsletter_token', $asmodee_newsletter_token);
         } else {
-            return new WP_Error('token', __(' Can\'t set a token', 'asmodee-newsletter'));
+            return new WP_Error('token', __('Can\'t set a token', 'asmodee-newsletter'));
         }
     }
     return $asmodee_newsletter_token;

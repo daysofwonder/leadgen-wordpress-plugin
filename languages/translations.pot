@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: asmodee newsletter\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+
+#: asmodee-newsletter.php:54
+msgid "Submitting email"
+msgstr ""
+
+#: asmodee-newsletter.php:55
+msgid "You are now subscribed!"
+msgstr ""
+
+#: asmodee-newsletter.php:56
+msgid "An email has been sent to confirm!"
+msgstr ""
+
+#: asmodee-newsletter.php:57, asmodee-newsletter.php:312
+msgid "Invalid email"
+msgstr ""
+
+#: asmodee-newsletter.php:58
+msgid "User already registred"
+msgstr ""
+
+#: asmodee-newsletter.php:59
+msgid "An error has occured"
+msgstr ""
+
+#: asmodee-newsletter.php:70
+msgid "<p class=\"asmodee-newsletter_credentials\"><a href=\"%s\">Newsletter : Set credentials in settings page</a></p>"
+msgstr ""
+
+#: asmodee-newsletter.php:85
+msgid "Want the latest news about boardgaming and take advantage of exclusive offers?"
+msgstr ""
+
+#: asmodee-newsletter.php:86
+msgid "Subscribe to our newsletter!"
+msgstr ""
+
+#: asmodee-newsletter.php:298
+msgid "Invalid nonce"
+msgstr ""
+
+#: asmodee-newsletter.php:361
+msgid "Subscribe"
+msgstr ""
+
+#: asmodee-newsletter.php:364
+msgid "Your email"
+msgstr ""
+
+#: asmodee-newsletter.php:370
+msgid "Skip"
+msgstr ""
+
+#: asmodee-newsletter.php:390
+msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
+msgstr ""
+
+#: asmodee-newsletter.php:395
+msgid "You can use the unsubscribe link in the newsletter at any time."
+msgstr ""
+
+#: asmodee-newsletter.php:401
+msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
+msgstr ""
+
+#: asmodee-newsletter.php:429
+msgid ""
+msgstr ""
+
+#: asmodee-newsletter.php:436
+msgid "Client ID"
+msgstr ""
+
+#: asmodee-newsletter.php:444
+msgid "Client Secret"
+msgstr ""
+
+#: asmodee-newsletter.php:474
+msgid "Enter Client ID and Client Secret"
+msgstr ""
+
+#: asmodee-newsletter.php:505
+msgid "Can't set a token"
+msgstr ""
+
+#: template/confirm-subscription.php:24
+msgid "Your subscription is confirmed."
+msgstr ""
+
+#: template/confirm-subscription.php:24
+msgid "Subscription key is not valid."
+msgstr ""

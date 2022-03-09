@@ -82,8 +82,8 @@ function asmodee_newsletter_display_subscription_block()
     <section class="asmodee-newsletter">
         <div class="asmodee-newsletter__container">
             <div class="column">
-                <h5 class="asmodee-newsletter__title"><?php _e('Want the latest news about boardgaming and take advantage of exclusive offers?', 'asmodee-newsletter'); ?></h5>
-                <p><?php _e('Subscribe to our newsletter!', 'asmodee-newsletter'); ?></p>
+                <h5 class="asmodee-newsletter__title"><?php _e("Let's stay connected!", 'asmodee-newsletter'); ?></h5>
+                <p><?php _e('Subscribe to our newsletter and receive news about your favourite games.', 'asmodee-newsletter'); ?></p>
             </div>
             <div class="column">
 				<?php echo asmodee_newsletter_display_form_subscribe(); ?>

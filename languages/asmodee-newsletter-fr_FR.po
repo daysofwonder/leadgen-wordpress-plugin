@@ -35,19 +35,16 @@ msgid "An error has occured"
 msgstr "Une erreur est survenue"
 
 #: asmodee-newsletter.php:70
-msgid "<p class=\"asmodee-newsletter_credentials\"><a href=\"%s\">Newsletter : Set "
-"credentials in settings page</a></p>"
+msgid "<p class=\"asmodee-newsletter_credentials\"><a href=\"%s\">Newsletter : Set credentials in settings page</a></p>"
 msgstr ""
 
 #: asmodee-newsletter.php:85
-msgid "Want the latest news about boardgaming and take advantage of exclusive "
-"offers?"
-msgstr "Vous souhaitez recevoir toute l'actualité autour du jeu de société et "
-"profiter d'avantages exclusifs ?"
+msgid "Let's stay connected!"
+msgstr "Restons connectés!"
 
 #: asmodee-newsletter.php:86
-msgid "Subscribe to our newsletter!"
-msgstr "Abonnez-vous à notre newsletter !"
+msgid "Subscribe to our newsletter and receive news about your favourite games."
+msgstr "Abonnez-vous à notre newsletter et recevez les actualités de vos jeux préférés."
 
 #: asmodee-newsletter.php:298
 msgid "Invalid nonce"
@@ -66,21 +63,16 @@ msgid "Skip"
 msgstr "Passer"
 
 #: asmodee-newsletter.php:390
-msgid "Asmodee Digital, as the Data Controller, processes the data collected solely "
-"to manage your subscription to the newsletter."
-msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données "
-"recueillies uniquement pour gérer votre inscription à la Newsletter."
+msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
+msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données recueillies uniquement pour gérer votre inscription à la Newsletter."
 
 #: asmodee-newsletter.php:395
 msgid "You can use the unsubscribe link in the newsletter at any time."
-msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la "
-"newsletter."
+msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la newsletter."
 
 #: asmodee-newsletter.php:401
-msgid "To find out more about your rights and how we process your personal data, "
-"please see our Privacy Policy"
-msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos "
-"données personnelles, veuillez consulter notre Politique de Confidentialité"
+msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
+msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos données personnelles, veuillez consulter notre Politique de Confidentialité"
 
 #: asmodee-newsletter.php:436
 msgid "Client ID"

@@ -1,38 +1,38 @@
 msgid ""
 msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 "Project-Id-Version: asmodee newsletter\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: \n"
 "Language-Team: \n"
-"Language: fr_FR\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 
 #: asmodee-newsletter.php:54
 msgid "Submitting email"
-msgstr "Inscription en cours"
+msgstr ""
 
 #: asmodee-newsletter.php:55
 msgid "You are now subscribed!"
-msgstr "Vous êtes inscrits"
+msgstr ""
 
 #: asmodee-newsletter.php:56
 msgid "An email has been sent to confirm!"
-msgstr "Un email a été envoyé pour confirmation"
+msgstr ""
 
 #: asmodee-newsletter.php:57, asmodee-newsletter.php:312
 msgid "Invalid email"
-msgstr "Email invalide"
+msgstr ""
 
 #: asmodee-newsletter.php:58
 msgid "User already registred"
-msgstr "Utilisateur déjà enregistré"
+msgstr ""
 
 #: asmodee-newsletter.php:59
 msgid "An error has occured"
-msgstr "Une erreur est survenue"
+msgstr ""
 
 #: asmodee-newsletter.php:70
 msgid "<p class=\"asmodee-newsletter_credentials\"><a href=\"%s\">Newsletter : Set credentials in settings page</a></p>"
@@ -40,11 +40,11 @@ msgstr ""
 
 #: asmodee-newsletter.php:85
 msgid "Let's stay connected!"
-msgstr "Restons connectés!"
+msgstr ""
 
 #: asmodee-newsletter.php:86
 msgid "Subscribe to our newsletter and receive news about your favourite games."
-msgstr "Abonnez-vous à notre newsletter et recevez les actualités de vos jeux préférés."
+msgstr ""
 
 #: asmodee-newsletter.php:298
 msgid "Invalid nonce"
@@ -52,27 +52,31 @@ msgstr ""
 
 #: asmodee-newsletter.php:361
 msgid "Subscribe"
-msgstr "S’abonner"
+msgstr ""
 
 #: asmodee-newsletter.php:364
 msgid "Your email"
-msgstr "Votre email"
+msgstr ""
 
 #: asmodee-newsletter.php:370
 msgid "Skip"
-msgstr "Passer"
+msgstr ""
 
 #: asmodee-newsletter.php:390
 msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
-msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données recueillies uniquement pour gérer votre inscription à la Newsletter."
+msgstr ""
 
 #: asmodee-newsletter.php:395
 msgid "You can use the unsubscribe link in the newsletter at any time."
-msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la newsletter."
+msgstr ""
 
 #: asmodee-newsletter.php:401
 msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
-msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos données personnelles, veuillez consulter notre Politique de Confidentialité"
+msgstr ""
+
+#: asmodee-newsletter.php:429
+msgid ""
+msgstr ""
 
 #: asmodee-newsletter.php:436
 msgid "Client ID"
@@ -92,8 +96,8 @@ msgstr ""
 
 #: template/confirm-subscription.php:24
 msgid "Your subscription is confirmed."
-msgstr "Votre inscripition est confirmée."
+msgstr ""
 
 #: template/confirm-subscription.php:24
 msgid "Subscription key is not valid."
-msgstr "La clé d'inscription est invalide."
+msgstr ""

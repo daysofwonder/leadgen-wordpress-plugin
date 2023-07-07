@@ -387,20 +387,8 @@ function asmodee_newsletter_display_form_mentions()
     <div class="mentions">
                     <p>
                         ' .
-        __('Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter.', 'asmodee-newsletter')
+        sprintf(__('I agree to receive information by e-mail about offers, services, games and events from Asmodee Digital, other companies in the Asmodee group and the Embracer group to which Asmodee Digital is affiliated, in accordance with the %s Privacy Policy %s. You can unsubscribe at any time.', 'asmodee-newsletter'), '<a href="' . $mentions_link . '" target="_blank" rel="noopener">', '</a>')
         . '
-                    </p>
-                    <p>
-                        ' .
-        __('You can use the unsubscribe link in the newsletter at any time.', 'asmodee-newsletter')
-        . '
-                    </p>
-                    <p>
-                        <a href="' . $mentions_link . '" target="_blank" rel="noopener">
-                            ' .
-        __('To find out more about your rights and how we process your personal data, please see our Privacy Policy', 'asmodee-newsletter')
-        . '
-                        </a>
                     </p>
             </div>
     ';

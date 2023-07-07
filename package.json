@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "wp-pot-cli": "^1.5.0"
+  },
+  "scripts": {
+      "translate": "wp-pot --dest-file=languages/translations.pot --relative-to=. --package='asmodee newsletter'"
+  }
+}

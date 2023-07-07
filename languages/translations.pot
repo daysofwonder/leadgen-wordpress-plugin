@@ -63,34 +63,26 @@ msgid "Skip"
 msgstr ""
 
 #: asmodee-newsletter.php:390
-msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
+msgid "I agree to receive information by e-mail about offers, services, games and events from Asmodee Digital, other companies in the Asmodee group and the Embracer group to which Asmodee Digital is affiliated, in accordance with the %s Privacy Policy %s. You can unsubscribe at any time."
 msgstr ""
 
-#: asmodee-newsletter.php:395
-msgid "You can use the unsubscribe link in the newsletter at any time."
-msgstr ""
+#: asmodee-newsletter.php:417
+#msgid ""
+#msgstr ""
 
-#: asmodee-newsletter.php:401
-msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
-msgstr ""
-
-#: asmodee-newsletter.php:429
-msgid ""
-msgstr ""
-
-#: asmodee-newsletter.php:436
+#: asmodee-newsletter.php:424
 msgid "Client ID"
 msgstr ""
 
-#: asmodee-newsletter.php:444
+#: asmodee-newsletter.php:432
 msgid "Client Secret"
 msgstr ""
 
-#: asmodee-newsletter.php:474
+#: asmodee-newsletter.php:462
 msgid "Enter Client ID and Client Secret"
 msgstr ""
 
-#: asmodee-newsletter.php:505
+#: asmodee-newsletter.php:493
 msgid "Can't set a token"
 msgstr ""
 

@@ -63,16 +63,8 @@ msgid "Skip"
 msgstr "Passer"
 
 #: asmodee-newsletter.php:390
-msgid "Asmodee Digital, as the Data Controller, processes the data collected solely to manage your subscription to the newsletter."
-msgstr "Asmodee Digital traite, en tant que Responsable de traitement, les données recueillies uniquement pour gérer votre inscription à la Newsletter."
-
-#: asmodee-newsletter.php:395
-msgid "You can use the unsubscribe link in the newsletter at any time."
-msgstr "Vous pouvez à tout moment utiliser le lien de désabonnement intégré dans la newsletter."
-
-#: asmodee-newsletter.php:401
-msgid "To find out more about your rights and how we process your personal data, please see our Privacy Policy"
-msgstr "Pour en savoir plus sur vos droits et la manière dont nous traitons vos données personnelles, veuillez consulter notre Politique de Confidentialité"
+msgid "I agree to receive information by e-mail about offers, services, games and events from Asmodee Digital, other companies in the Asmodee group and the Embracer group to which Asmodee Digital is affiliated, in accordance with the %s Privacy Policy %s."
+msgstr "J’accepte de recevoir des informations par email concernant les offres, services, jeux et événements d’Asmodee Digital, des autres sociétés du groupe Asmodee et du groupe Embracer auquel appartient Asmodee Digital, conformément à la %s Politique de confidentialité %s. Vous pouvez vous désabonner à tout moment."
 
 #: asmodee-newsletter.php:436
 msgid "Client ID"
